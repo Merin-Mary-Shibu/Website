@@ -70,6 +70,21 @@ button{
     background-color: rgb(206, 244, 253);
 }
 
+table {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:50px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    width:400px;
+  }
+
 footer{
     text-align: center;
     padding: 3px;
